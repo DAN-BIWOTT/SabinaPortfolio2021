@@ -24,7 +24,7 @@ function Hero() {
       <HeroContainer>
         <HeroWrapper>
           <HeroLeft>
-            <h1>Hi, I'm Biwott</h1>
+            <h1>Hi, I'm Sabina</h1>
             <h5>A Full-Stack Web Developer</h5>
             <p>
              I write Clean, Testable and Re-usable code.
