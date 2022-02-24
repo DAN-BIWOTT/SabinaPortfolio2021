@@ -11,12 +11,12 @@ body {
   font-family: "Poppins", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #ff1493;
+  background: #fafaff;
   font-weight: 400;
 }
 
 main {
-  background: #151418;
+  background: #fa0b8b;
   background-image: url(https://raw.githubusercontent.com/gurupawar/portfolio/main/assets/blob-haikei.svg);
   background-repeat: no-repeat;
   background-size: cover;
