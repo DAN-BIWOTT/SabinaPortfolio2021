@@ -40,19 +40,10 @@ export const ProjectList = [
     img: "https://github.com/DAN-BIWOTT/DAN-BIWOTT.github.io/blob/master/assets/img/tutorials.png?raw=true",
     title: "Tutorials",
     description:
-      "Created a platform where I give tutorials on my various areas of interest.",
+      "Created a platform where A friend and I give tutorials on my various areas of interest.",
     tech_stack: "Ruby on Rails, Html, Css, Scss, ruby, Js",
     github_url: "https://github.com/DAN-BIWOTT/",
     demo_url: "https://sghost.herokuapp.com/",
-  },
-  {
-    img: "https://github.com/DAN-BIWOTT/DAN-BIWOTT.github.io/blob/master/assets/img/easyplacement.png?raw=true",
-    title: "Easy University Placement",
-    description:
-      "Designed a platform that makes it easy to get a list of courses and universities you may attend depending on your kcse results.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://github.com/DAN-BIWOTT/",
-    demo_url: "https://dan-biwott.github.io/easyKUCCPS/analysis.html",
   },
   {
     img: "https://github.com/DAN-BIWOTT/DAN-BIWOTT.github.io/blob/master/assets/img/janicephotography.png?raw=true",
