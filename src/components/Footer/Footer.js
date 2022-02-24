@@ -26,7 +26,7 @@ function Footer() {
         <span>
           Coded with 💙 by{" "}
           <a
-            href="#"
+            href="/#"
             target="_blank"
             rel="noopener noreferrer"
           >
