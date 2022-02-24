@@ -20,7 +20,7 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            My name is <strong>Kibiwott Dan </strong> 
+            My name is <strong>Sabina Wangari </strong> 
             I'm a full-stack web developer with 6+ years experience, 
             back-end mobile developer with 3+ years experience and 
             a block-chain smart contract developer with 2+ years experience.
