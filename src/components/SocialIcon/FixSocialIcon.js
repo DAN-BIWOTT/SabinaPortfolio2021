@@ -36,7 +36,7 @@ function FixSocialIcon() {
       <ul>
         <li className="item">
           <a
-            href="#"
+            href="/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -45,7 +45,7 @@ function FixSocialIcon() {
         </li>
         <li className="item">
           <a
-            href="#"
+            href="/"
             target="_blank"
             rel="noopener noreferrer"
           >
