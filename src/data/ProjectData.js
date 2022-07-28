@@ -25,7 +25,7 @@ export const ProjectList = [
       "Client's website landing page Design with video background to represent their brand.",
     tech_stack: "Gatsby, React, GraphQl,Html, Css, Scss, Js",
     github_url: "https://github.com/DAN-BIWOTT/",
-    demo_url: "https://sharp-mclean-ae1de2.netlify.app/",
+    demo_url: "https://gastby-travel-4klnetk5v-dan-biwott.vercel.app/",
   },
   {
     img: "https://github.com/DAN-BIWOTT/DAN-BIWOTT.github.io/blob/master/assets/img/mulli.png?raw=true",
