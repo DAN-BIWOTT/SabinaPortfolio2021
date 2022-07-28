@@ -7,7 +7,7 @@ export const ProjectList = [
       "Client's Start-up Content Management system. Designed and built to accommodate nursing assignments and academic paper purchase.",
     tech_stack: "Gatsby, React, GraphQl, Firebase, Hasura, Netlify, Postgres, Heroku, Html, Css, Js",
     github_url: "https://github.com/DAN-BIWOTT/",
-    demo_url: "https://elastic-mahavira-532e6e.netlify.app/",
+    demo_url: "https://university-of-nursing.vercel.app/",
   },
   {
     img: "https://github.com/DAN-BIWOTT/DAN-BIWOTT.github.io/blob/master/assets/img/jodawaki.png?raw=true",
@@ -34,7 +34,7 @@ export const ProjectList = [
       "Client's website designed and built to represent their brand.",
     tech_stack: "Gatsby, React, Html, Css, Scss, Js",
     github_url: "https://github.com/DAN-BIWOTT/",
-    demo_url: "https://happy-colden-1f06c5.netlify.app/",
+    demo_url: "https://mulli-software-solutions.vercel.app/",
   },
   {
     img: "https://github.com/DAN-BIWOTT/DAN-BIWOTT.github.io/blob/master/assets/img/tutorials.png?raw=true",
